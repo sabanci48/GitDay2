@@ -1,6 +1,6 @@
 package webapp;
 
-public class HomePage {
+public class  HomePage {
 
     //setting up home page
     //nav menu
