@@ -9,4 +9,5 @@ public class HomePage {
    // home page update
     //logo change
 
+    //footer is added
 }
